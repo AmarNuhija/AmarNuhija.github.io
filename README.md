@@ -26,14 +26,14 @@
 
 
 
-Kenntnisse: 
+## Kenntnisse: 
 
-Sprache:    Albanisch - Muttersprache
+## Sprache:    Albanisch - Muttersprache
             Deutsch - fliessend in Wort und Schrift
             Englisch - fliessend in Wort und Schrift
             Französisch - erweiterte Grundkenntnisse
 
-Software: C# - Noch in Übung
+## Software: C# - Noch in Übung
           MySQL - Gut
           
 
